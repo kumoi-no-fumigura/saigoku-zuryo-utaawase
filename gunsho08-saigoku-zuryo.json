@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/saigoku-zuryo-utaawase",
  "yomi": "さいごくずりょううたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "未詳",
+  "author": "未詳",
+  "desc": "西国の受領の館で、四月ごろの庚申の夜に物の名を書き出して詠み合わせた歌合。廬橘・五葉・田子・照射・釣船・塩竈などを題とし、短い判の言葉を添える。"
+ },
  "editions": [
   {
    "pid": "1879502",
